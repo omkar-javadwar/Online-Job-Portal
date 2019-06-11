@@ -1,2 +1,7 @@
 # Online-Job-Portal
-It is the project regarding with seeker and recruiter for finding the job on the portal for seeker as well as recruiter will provide job to it.
+Online Job Portal is a web-application which is developed with a vision to centralise the job seeking process. With Online Job Portal, job seekers and job recruiters can come on the same platform and simplify the process. The application will work as follows:
+
+Job recruiters and job seekers will register on the platform
+Job recruiters will post vacancies in their respective firms.
+Job seekers will apply for the iob of their choice.
+Job recruiters will screen application through portal and call selected candidated for interview.
