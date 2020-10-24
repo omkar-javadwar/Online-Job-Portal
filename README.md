@@ -6,3 +6,8 @@ Online Job Portal is a web-application which is developed with a vision to centr
 2.Job recruiters will post vacancies in their respective firms.
 3.Job seekers will apply for the iob of their choice.
 4.Job recruiters will screen application through portal and call selected candidated for interview.
+
+Online job portal is a project especially developed for demo purpose and it can be modified according to the requirement.
+---
+Contributed by: 
+Amey Rajesh Dusad @dusadamey
